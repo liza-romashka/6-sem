@@ -1,0 +1,5 @@
+﻿  Assembling assembly.asm...
+  main.cpp
+C:\Рабочая папка\3 курс\цуим\лаба 4\Project1\main.cpp(26,32): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Рабочая папка\3 курс\цуим\лаба 4\Project1\main.cpp(33,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Project1.vcxproj -> C:\Рабочая папка\3 курс\цуим\лаба 4\Project1\Debug\Project1.exe

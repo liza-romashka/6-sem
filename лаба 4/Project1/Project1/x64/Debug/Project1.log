@@ -1,0 +1,8 @@
+﻿  Assembling assembly.asm...
+assembly.asm(1): error A2008: syntax error : .
+assembly.asm(2): error A2008: syntax error : .
+assembly.asm(13): error A2070: invalid instruction operands
+assembly.asm(23): error A2070: invalid instruction operands
+assembly.asm(42): error A2070: invalid instruction operands
+assembly.asm(45): warning A6004: procedure argument or local not referenced : C
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"Project1\x64\Debug\assembly.obj" /W3 /errorReport:prompt  /Taassembly.asm" с кодом "1".
