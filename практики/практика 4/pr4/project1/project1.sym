@@ -1,0 +1,81 @@
+__Lrdata 29 FFFFFFDA DATA
+__Hrbss 29 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFDA DATA
+__Hirdata 29 FFFFFFDA DATA
+__Lirdata 29 FFFFFFDA DATA
+powerup 9D 0 CODE
+__Htext 29 0
+__Ltext 29 0
+__Hcode 29 0
+__Lcode 29 0
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 29 0 XDATA
+__Hbss 29 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 29 0 XDATA
+__Lstrings 100 0 CODE
+?a_msec 27 0 DATA
+__S0 100 0
+start1 89 0 CODE
+__Hnvram 29 0 XDATA
+small_model 1 0
+__Lnvram 29 0 XDATA
+_msec 3 0 CODE
+__Hheap 29 0 XDATA
+__Lheap 29 0 XDATA
+_main 3A 0 CODE
+?a_main 20 0 DATA
+_exit 9A 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 29 0 DATA
+__Hidata 29 0 DATA
+__Lidata 29 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFDA DATA
+__Hrdata 29 FFFFFFDA DATA
+%segments
+vectors 0 9F CODE
+rbit 0 8 BITSEG
+%locals
+C:\Users\blamb\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\pr4\project1\main_0.obj
+C:\0E91~1\3A3E7~1\890C~1\FB71~1\pr4\project1\main.c
+3 3 0 CODE
+4 9 0 CODE
+5 B 0 CODE
+6 E 0 CODE
+7 11 0 CODE
+9 13 0 CODE
+10 1A 0 CODE
+11 1C 0 CODE
+4 1E 0 CODE
+13 37 0 CODE
+15 3A 0 CODE
+18 3C 0 CODE
+19 3F 0 CODE
+20 42 0 CODE
+21 45 0 CODE
+22 48 0 CODE
+23 4B 0 CODE
+25 4E 0 CODE
+26 51 0 CODE
+27 58 0 CODE
+28 5C 0 CODE
+29 63 0 CODE
+30 67 0 CODE
+31 6E 0 CODE
+32 72 0 CODE
+33 79 0 CODE
+34 7D 0 CODE
+24 84 0 CODE
+36 86 0 CODE
